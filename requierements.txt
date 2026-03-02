@@ -1,0 +1,2 @@
+reportlab
+sqlite3 #already has in default python.
